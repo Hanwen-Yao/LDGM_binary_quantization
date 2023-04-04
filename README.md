@@ -1,1 +1,1 @@
-# LDGM_binary_quantization
+# Quantum LDPC
